@@ -1,0 +1,4 @@
+cuttly:
+bitly:
+ip2location:
+openweathermap:
