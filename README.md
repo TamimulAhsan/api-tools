@@ -1,8 +1,8 @@
-# The Toolset
+# Sniffle
 
 ## Overview
 
-Welcome to the *Toolset Project*! This comprehensive toolset is designed to *combine some necessary tools at one place for your convenience*. Whether you're a developer, system administrator, or anyone, this toolset is here to make your life easier.
+Welcome to the *Sniffle Project*! This comprehensive toolset is designed to *combine some necessary tools at one place for your convenience*. Whether you're a developer, system administrator, or anyone, this toolset is here to make your life easier.
 
 ## Features
 - **1:** *IP Address details: Get complete details of an IPv4 address*
@@ -22,14 +22,14 @@ Note: <ins>Obtain the api keys form the services above and store them in the</in
 
 ### Installation
 
-To install the toolset, follow these steps:
+To install the project, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/TamimulAhsan/toolset.git
+git clone https://github.com/TamimulAhsan/sniffle.git
 
 # Navigate to the project directory
-cd toolset
+cd sniffle
 
 #Run the Program
 python3 main.py
